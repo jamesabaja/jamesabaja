@@ -1,4 +1,4 @@
-### Hello there! I'm James 👨🏻‍💻 👋
+### Hello there! I'm James 👨‍💻 👋
 
 I'm a software engineer and developer who's passionate about innovation, learning new tech and converting coffee into code. I build projects and applications that make an impact by improving processes, making things more efficient, or simply doing good. My stack mainly includes React and Gatsby for frontend 🖌, Python, Django, and REST APIs for backend 📊, and AWS for deployment and content management 🚀. 
 

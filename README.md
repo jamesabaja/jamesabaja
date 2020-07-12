@@ -3,11 +3,11 @@
 I'm a software engineer and developer who's passionate about innovation, learning new tech and converting coffee into code. I build projects and applications that make an impact by improving processes, making things more efficient, or simply doing good. My stack mainly includes React and Gatsby for frontend 🖌, Python, Django, and REST APIs for backend 📊, and AWS for deployment and content management 🚀. 
 
 
-🔭 I'm currently working at MedGrocer as an Associate IT Manager and Full Stack Developer. 
+💊 I'm currently working at MedGrocer as an Associate IT Manager and Full Stack Developer. 
 
 #### Wanna chat?  
 - ✉️ me at jamesabaja.dev@gmail.com,
-- See my [LinkedIn](https://www.linkedin.com/in/jgabaja/) profile, or
+- Visit my [LinkedIn](https://www.linkedin.com/in/jgabaja/) profile, or
 - Check out [jamesabaja.tech](https://jamesabaja.tech) for more info about me, my projects, and my work ✨
 
 <!--

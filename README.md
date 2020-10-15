@@ -8,7 +8,7 @@ I'm a software engineer and developer who's passionate about innovation, learnin
 #### Wanna chat?  
 - ✉️ me at jamesabaja.dev@gmail.com,
 - Visit my [LinkedIn](https://www.linkedin.com/in/jgabaja/) profile, or
-- Check out [jamesabaja.tech](https://jamesabaja.tech) for more info about me, my projects, and my work ✨
+- Check out [jamesabaja.com](https://jamesabaja.com) for more info about me, my projects, and my work ✨
 
 <!--
 **jamesabaja/jamesabaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

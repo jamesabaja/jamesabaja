@@ -9,7 +9,7 @@ I'm a software engineer and developer who's passionate about innovation, learnin
 - Visit my [LinkedIn](https://www.linkedin.com/in/jgabaja/) profile, or
 - Check out [jamesabaja.com](https://jamesabaja.com) for more info about me, my projects, and my work ✨
 
-I'm also currently working on a new product launching soon, so please stay tuned 👀
+I'm also currently working on a new product launching soon, stay tuned for more updates 👀
 
 <!--
 **jamesabaja/jamesabaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

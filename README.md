@@ -1,8 +1,9 @@
 ### Hello there! I'm James 👨‍💻 👋
 
-I'm a software engineer and developer who's passionate about innovation, learning new tech and converting coffee into code. I build projects and applications that make an impact by improving processes, making things more efficient, or simply doing good. My stack mainly includes React and Gatsby for frontend 🖌, Firebase, Python, Django, and REST APIs for backend 📊, and AWS, Netlify, and Firebase Services (Hosting, Storage, Functions) for deployment and content management 🚀. 
+I'm a software engineer and developer who's passionate about innovation, learning new tech and converting coffee into code. I build projects and applications that make an impact by improving processes, making things more efficient, or simply doing good. My stack mainly includes React, Gatsby, Next.js, and TypeScript for frontend 🖌, Firebase, Python, Django, and REST APIs for backend 📊, and AWS, Netlify, and Firebase Services (Hosting, Storage, Functions) for deployment and content management 🚀. 
 
-💊 I'm currently working at a [Health Tech Startup](https://medgrocer.com) as an Associate IT Manager and Full Stack Developer. 
+📊 I'm currently working at a GTM SaaS Startup as a Full Stack developer (specializing in frontend and UI/UX).
+💊 I've previously worked at a [Health Tech Startup](https://medgrocer.com) as an Associate IT Manager and Full Stack Developer. 
 
 #### Wanna chat?  
 - ✉️ me at jamesabaja.dev@gmail.com,

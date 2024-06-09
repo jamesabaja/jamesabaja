@@ -4,7 +4,9 @@ I'm a software engineer and developer who's passionate about innovation, learnin
 
 📊 I'm currently working at a [GTM SaaS Startup](https://meddicc.com) as a Full Stack developer (specializing in frontend and UI/UX).
 
-💊 I've previously worked at a [Health Tech Startup](https://medgrocer.com) as an Associate IT Manager and Full Stack Developer. 
+Previously, I've...
+- worked at a [Health Tech Startup](https://medgrocer.com) as an Senior IT Manager and Full Stack Developer 💊
+- worked at an [eCommerce Company](https://poshpeanut.com) as a Senior Systems Engineer 🛒
 
 #### Wanna chat?  
 - ✉️ me at jamesabaja.dev@gmail.com,
